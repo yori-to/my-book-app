@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-book-app/static/css/main.24de87c2.chunk.css",
+    "main.js": "/my-book-app/static/js/main.cc216a58.chunk.js",
+    "main.js.map": "/my-book-app/static/js/main.cc216a58.chunk.js.map",
+    "runtime~main.js": "/my-book-app/static/js/runtime~main.6e37829b.js",
+    "runtime~main.js.map": "/my-book-app/static/js/runtime~main.6e37829b.js.map",
+    "static/js/2.764f51bf.chunk.js": "/my-book-app/static/js/2.764f51bf.chunk.js",
+    "static/js/2.764f51bf.chunk.js.map": "/my-book-app/static/js/2.764f51bf.chunk.js.map",
+    "index.html": "/my-book-app/index.html",
+    "precache-manifest.6c385c5bc9bad5a5dbff9dbc4bedd949.js": "/my-book-app/precache-manifest.6c385c5bc9bad5a5dbff9dbc4bedd949.js",
+    "service-worker.js": "/my-book-app/service-worker.js",
+    "static/css/main.24de87c2.chunk.css.map": "/my-book-app/static/css/main.24de87c2.chunk.css.map"
+  }
+}
